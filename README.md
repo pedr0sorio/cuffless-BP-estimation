@@ -11,7 +11,7 @@ This repository holds all the essential files for the running of a full pipeline
  - **[Diogo Batista]**
  - **[Pedro Osório]**
 
-In order to run the project you just have to run the code in the main.m file along with the subjects data whic is also provided here.
+In order to run the project you just have to run the code in the main.m file along with the subjects data which is also provided here.
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen.)
 
