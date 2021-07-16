@@ -1,7 +1,5 @@
 # Cuffless Blood Pressure Estimation
 
-[![](https://www.ejp-eurad.eu/sites/default/files/2019-11/ist_logo.png)](https://tecnico.ulisboa.pt/en/)
-
 This project consists of estimating blood pressure measures from ECG and PPG data. It was part of the [PDSB](https://fenix.tecnico.ulisboa.pt/cursos/mebiom/disciplina-curricular/1529008500343) course of the 1st year/2nd semester of the [Master in Biomedical Engineering](https://fenix.tecnico.ulisboa.pt/cursos/mebiom) at [Instituto Superior Técnico, Universidade de Lisboa](https://tecnico.ulisboa.pt/en/). The full final minipaper can be found within this repository.
 
 This repository holds all the essential files for the running of a full pipeline of signal preprocessing, feature extraction, dimensionality reduction and estimation models.
