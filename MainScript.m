@@ -11,6 +11,7 @@ addpath('./dataset');
 addpath('./feature-extraction');
 addpath('./pca');
 addpath('./preprocessing');
+addpath('./Model');
 
 global subject fs data 
 %% 2. Load and plot the signals
