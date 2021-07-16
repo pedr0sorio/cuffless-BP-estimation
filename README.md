@@ -10,6 +10,7 @@ Running the project is achieved by running the code in the MainScript.m file alo
  - **[Diogo Batista]**
  - **[Pedro Osório]**
 
+###### template by [Afonso Ferreira]
 
 
 
@@ -17,5 +18,6 @@ Running the project is achieved by running the code in the MainScript.m file alo
 
    [Diogo Antunes]: <https://github.com/>
    [Diogo Batista]: <https://github.com/>
-   [Pedro Osório]: <https://github.com/pedr0sorio>  
+   [Pedro Osório]: <https://github.com/pedr0sorio>
+   [Afonso Ferreira]: <https://github.com/afonsof3rreira>
    [Laseeb]: <https://wiki.laseeb.org/attachments/download/141/G5%20Cuffless%20Blood%20Pressure%20Estimation_r1.pdf>
