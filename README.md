@@ -17,7 +17,7 @@ Running the project is achieved by running the code in the MainScript.m file alo
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen.)
 
    [Diogo Antunes]: <https://github.com/>
-   [Diogo Batista]: <https://github.com/>
+   [Diogo Batista]: <https://github.com/DiegoBatosta>
    [Pedro Osório]: <https://github.com/pedr0sorio>
    [Afonso Ferreira]: <https://github.com/afonsof3rreira>
    [Laseeb]: <https://wiki.laseeb.org/attachments/download/141/G5%20Cuffless%20Blood%20Pressure%20Estimation_r1.pdf>
